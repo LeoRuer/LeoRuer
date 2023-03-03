@@ -25,9 +25,7 @@
     <a href="https://grafana.com/n"><img alt="Grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"></a>
     <a href="https://fr.wordpress.org/"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
     <a href="https://www.virtualbox.org/"><img alt="VirtualBox" src="https://img.shields.io/badge/virtualbox-%23183A61.svg?&style=for-the-badge&logo=virtualbox&logoColor=white">
-      
-      
-      
+    <a href="https://mariadb.com/"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a
  </a>
 </p>
 </br>
