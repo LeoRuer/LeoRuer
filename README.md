@@ -5,7 +5,7 @@
 <p>
     <a href="https://www.lua.org/"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
     <a href="https://doc.ubuntu-fr.org/tutoriel/script_shell"><img alt="Shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-    <a href="https://learn.microsoft.com/fr-fr/powershell/scripting/windows-powershell/ise/how-to-write-and-run-scripts-in-the-windows-powershell-ise?view=powershell-7.3"><img alt="Powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+
       
   </a>
 
